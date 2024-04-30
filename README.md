@@ -1,1 +1,1 @@
-# StochasticForagingPaths
+# Stochastic Foraging Paths
