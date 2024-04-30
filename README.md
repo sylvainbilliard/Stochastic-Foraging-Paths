@@ -2,4 +2,4 @@ This is the repository of files used in the paper "Stochastic foraging paths pri
 
 Datasets and script: contains all data and the script used to calculate the coefficient of variations.
 
-Simulatins and script: contains the simulations result and the script to produce the figures.
+Simulations and script: contains the simulations result and the script to produce the figures.
